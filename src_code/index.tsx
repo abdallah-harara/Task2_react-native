@@ -10,5 +10,4 @@ function App(){
         </View>
     )
 }
-
 export default App();
